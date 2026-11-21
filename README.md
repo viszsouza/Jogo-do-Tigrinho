@@ -1,14 +1,13 @@
 <div align="center">
 
-  <!-- BANNER DO PROJETO -->
-  <img src="https://vercel.app🐯%20FORTUNE%20NUMBER%20🐯&fontSize=42&fontColor=FFD700&fontAlignY=38&desc=O%20Jogo%20de%20Adivinhação%20Temático%20em%20Python&descAlignY=58&descSize=18" width="100%" />
+  <h1>🐯🎰 FORTUNE NUMBER 🎰🐯</h1>
+  <h3>🧧 O Jogo de Adivinhação Temático em Python 🧧</h3>
 
-  <!-- BADGES ESTILIZADAS -->
   <p>
-    <img src="https://shields.io" alt="Python" />
-    <img src="https://shields.io" alt="Tkinter" />
-    <img src="https://shields.io" alt="Tema" />
-    <img src="https://shields.io" alt="Status" />
+    <code>🐍 Python 3.x</code> &nbsp;|&nbsp; 
+    <code>🖥️ Tkinter GUI</code> &nbsp;|&nbsp; 
+    <code>🐯 Tema Fortune Tiger</code> &nbsp;|&nbsp; 
+    <code>✅ Concluído</code>
   </p>
 
   <p>
@@ -19,7 +18,7 @@
 
 ---
 
-<h2 align="center">✨ Destaques do Projeto</h2>
+<h2 align="center">✨ Destaques do Projeto ✨</h2>
 
 <table align="center">
   <tr>
@@ -40,7 +39,7 @@
 
 ---
 
-<h2 align="center">🎮 Regras & Mecânica</h2>
+<h2 align="center">🎮 Regras & Mecânica 🎮</h2>
 
 <div align="center">
 
@@ -56,10 +55,10 @@
 
 ---
 
-<h2 align="center">🚀 Como Executar</h2>
+<h2 align="center">🚀 Como Executar 🚀</h2>
 
 <details open>
-  <summary><b>Clique para ver o passo a passo</b></summary>
+  <summary><b>📂 Clique para ver o passo a passo</b></summary>
   <br>
 
   **1. Clone o repositório:**
@@ -82,12 +81,10 @@
 
 <div align="center">
 
-### ⚠️ Aviso Legal
+### ⚠️ Aviso Legal ⚠️
 <sub>Este projeto foi criado <b>exclusivamente para fins educacionais e de portfólio</b>. Não envolve dinheiro real, apostas verdadeiras ou qualquer vínculo com plataformas comerciais.</sub>
 
 <br><br>
-
-<!-- RODAPÉ -->
-<img src="https://vercel.app" width="100%" />
+<p>🐯🧧💰🎰🔥✨</p>
 
 </div>
